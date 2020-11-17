@@ -1,0 +1,33 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+.edit-button {
+  margin-right: 20px;
+  color: #fff;
+  text-decoration: none;
+  padding: 4px 15px;
+  background-color: grey;
+  border-radius: 6px;
+}
+
+.book-title a {
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+}
+
+.return-button {
+  margin-right: 20px;
+  color: #fff;
+  text-decoration: none;
+  padding: 8px 25px;
+  background-color: rgba(37, 37, 197, 0.63);
+  border-radius: 4px;
+  font-size: 18px;
+}
